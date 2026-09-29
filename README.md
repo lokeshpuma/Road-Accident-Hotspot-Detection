@@ -61,7 +61,8 @@ This project delivers a production-grade architecture that:
 ## 📊 3. Dataset & Hotspot Methodology
 
 The project analyzes the official **UK Road Safety (STATS19)** collision dataset spanning 2021–2025 (513,801 total collisions).
-[DATASET LINK](https://www.gov.uk/government/statistical-data-sets/road-safety-open-data)
+
+**Dataset Link**:- [UK Road Safety (STATS19)](https://www.gov.uk/government/statistical-data-sets/road-safety-open-data)
 
 ### Spatial & Temporal Clustering
 - **Spatial Grid Resolution**: $0.02^\circ \times 0.02^\circ$ latitude/longitude cells ($\approx 2.2\text{ km} \times 1.3\text{ km}$).
