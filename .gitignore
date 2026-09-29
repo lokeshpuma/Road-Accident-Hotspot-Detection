@@ -1,0 +1,25 @@
+# Large dataset files (97MB STATS19 CSV)
+*.csv
+data/*.csv
+!site/top20.csv
+
+# Java & Maven artifacts
+target/
+mapreduce/target/
+*.class
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.pytest_cache/
+
+# OS and IDE files
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo

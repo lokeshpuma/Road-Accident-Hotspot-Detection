@@ -1,0 +1,5 @@
+kafka-python==2.0.2
+hdfs==2.7.3
+folium==0.17.0
+pandas==2.2.2
+numpy==1.26.4
